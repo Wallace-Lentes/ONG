@@ -1,0 +1,36 @@
+
+body{
+
+    background-image:url(https://institutoreacao.org.br/wp-content/uploads/2021/03/Como-escolher-uma-ONG-para-ajudar.jpg);
+}
+
+h1 {
+    text-decoration: underline;
+    color: black;
+    text-align: center;
+}
+h2, h3, h4{
+    color: rgb(6, 19, 8);
+    text-align: center;
+}
+.titulo {
+    text-align:left;
+    
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: darksalmon;
+    color: white;
+}
+div.box{
+    margin: 20px;
+    width: 330px;
+    display: inline-block;
+}
+span{
+    color: aqua;
+}
+p{
+    color: rgb(6, 19, 8);
+}
